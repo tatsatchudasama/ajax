@@ -214,6 +214,7 @@
             //     });
             // });
 
+            // delete
             $("body").on('click', '.delButton', function(){
                 
                 var id = $(this).data('id');
